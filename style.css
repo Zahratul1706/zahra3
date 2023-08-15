@@ -1,0 +1,61 @@
+/* Reset beberapa nilai default */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Gaya umum */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Header */
+header {
+    background-color: #906126;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+/* Navigasi */
+nav ul {
+    list-style: none;
+    background-color: #906126;;
+    text-align: center;
+    padding: 1em;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Main Konten */
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Section */
+section {
+    margin-bottom: 20px;
+}
+
+/* Footer */
+footer {
+    background-color: #906126;;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
